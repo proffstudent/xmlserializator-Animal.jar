@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Object type="People">
+<fields id="name" type="String" value="John"/>
+<fields id="age" type="int" value="201"/>
+<fields id="salary" type="double" value="1111.0"/>
+</Object>
